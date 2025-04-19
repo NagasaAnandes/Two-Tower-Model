@@ -1,0 +1,21 @@
+book_id,genre,author,artist,year,trending,new_release,top_rated
+100,Action,Emma Brown,Anna Green,2022,1,1,1
+101,Comedy,Tom White,Sarah Adams,2019,0,1,1
+102,Fantasy,Tom White,Jane Doe,2017,0,0,0
+103,Drama,Alice Kim,Bob Brown,2021,0,1,0
+104,Fantasy,David Clark,Mike Lee,2016,1,1,0
+105,Horror,Emma Brown,Bob Brown,2016,1,0,0
+106,Comedy,Tom White,Sarah Adams,2017,0,1,1
+107,Comedy,David Clark,Jane Doe,2017,1,1,1
+108,Horror,Emma Brown,Jane Doe,2021,1,1,0
+109,Drama,Tom White,Bob Brown,2015,1,0,1
+110,Comedy,John Smith,Bob Brown,2017,0,0,0
+111,Drama,Alice Kim,Jane Doe,2018,0,0,0
+112,Comedy,Tom White,Bob Brown,2022,0,1,1
+113,Fantasy,David Clark,Bob Brown,2015,0,0,0
+114,Fantasy,Emma Brown,Jane Doe,2015,1,1,1
+115,Action,David Clark,Jane Doe,2018,0,0,0
+116,Comedy,Alice Kim,Mike Lee,2016,1,1,0
+117,Drama,Tom White,Jane Doe,2018,0,0,0
+118,Comedy,Alice Kim,Mike Lee,2017,0,1,1
+119,Horror,Alice Kim,Mike Lee,2020,1,0,0

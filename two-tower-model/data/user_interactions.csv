@@ -1,0 +1,21 @@
+user_id,book_id,rating,status_baca,timestamp
+1,316,4.9,Belum dibaca,1710146410
+2,380,2.2,Ingin dibaca,1707154337
+3,305,1.1,Ingin dibaca,1715755338
+4,355,1.1,Ingin dibaca,1713385264
+5,354,2.9,Belum dibaca,1705500733
+6,251,2.0,Ingin dibaca,1714642301
+7,363,4.7,Ingin dibaca,1717108308
+8,316,3.6,Ingin dibaca,1704915252
+9,170,4.9,Ingin dibaca,1718655306
+10,188,1.4,Sedang dibaca,1704044373
+11,119,4.3,Sedang dibaca,1708414455
+12,482,3.4,Sedang dibaca,1712074833
+13,144,1.8,Ingin dibaca,1710291135
+14,334,4.8,Ingin dibaca,1703547317
+15,347,3.9,Belum dibaca,1710660880
+16,324,3.3,Sedang dibaca,1705635066
+17,484,3.5,Ingin dibaca,1701841767
+18,344,2.5,Belum dibaca,1708588046
+19,194,1.8,Sedang dibaca,1718362696
+20,486,1.4,Ingin dibaca,1707673384
